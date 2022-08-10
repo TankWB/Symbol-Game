@@ -1,5 +1,5 @@
 # Symbol-Game
-The goal is to guess the value of each symbol.
+The goal of the game is to guess the value of each symbol.
 
 For the moment, to run the game, you will need to follow these steps :
 
